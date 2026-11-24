@@ -1,5 +1,4 @@
-% in this exercise we learn to implement functions similar to how they are
-% portrayed in fol.
+% First-order term evaluation and deductive queries over relational structures.
 
 %----------------------Task 1
 %?- eval( plus(minus(8,2), times(4,-3)), N).
