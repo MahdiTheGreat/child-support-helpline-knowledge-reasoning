@@ -1,4 +1,4 @@
-# Child Support Helpline: AI & Knowledge Representation System
+# Child Support Helpline & Knowledge Reasoning Platform
 
 A knowledge-driven artificial intelligence and reasoning platform integrating semantic ontologies, natural language processing (NLP), Belief-Desire-Intention (BDI) agents, Answer Set Programming (ASP), and declarative Prolog deduction.
 
@@ -55,7 +55,7 @@ Deductive knowledge representation and query resolution in Prolog under first-or
 ## Directory Structure
 
 ```text
-child-support-helpline/
+child-support-helpline-knowledge-reasoning/
 ├── README.md
 ├── .gitignore
 └── projects/
